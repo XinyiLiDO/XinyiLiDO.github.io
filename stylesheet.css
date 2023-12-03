@@ -139,3 +139,12 @@ span.highlight {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 16px;
 }
+
+.bibtex-entry {
+  display: none;
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-top: 5px;
+  background-color: #f9f9f9;
+}
+
