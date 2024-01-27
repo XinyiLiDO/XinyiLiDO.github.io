@@ -1,1 +1,1 @@
-# XinyiLiDO.github.io
+# xinyilido.github.io
